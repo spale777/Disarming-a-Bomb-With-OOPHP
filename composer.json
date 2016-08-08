@@ -1,0 +1,18 @@
+{
+    "name": "spale777/disarming-a-bomb-with-php-ep.1",
+    "description": "Here we will try to disarm a hypothetical bomb using OOPHP and design patterns.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petar Spasic",
+            "email": "spasicpetar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\":"src/"
+        }
+    }
+}
